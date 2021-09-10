@@ -1,2 +1,2 @@
 # discordbot
-現在開発中のJDKを用いたScalaとKotlinでのDiscord Botです。
+現在開発中のJDAを用いたScalaとKotlinでのDiscord Botです。
