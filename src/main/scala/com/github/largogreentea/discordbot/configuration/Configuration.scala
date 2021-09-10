@@ -2,7 +2,7 @@
 
   object Configuration {
       def getToken:String ={
-        val Token:String = "ODI0NTcwNzg4MzM0MTQxNDYw.YFxTYw.XpCfLoXjhi5sLQHtd3vZwOfQ4QA"
+        val Token:String = ""
         return Token:String
       }:String
   }
